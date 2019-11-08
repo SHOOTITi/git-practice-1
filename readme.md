@@ -7,3 +7,4 @@
 ## 任务
 1. [克隆与推送自己的分支](tasks/task1.md)
 2. [更新自己的远程分支列表](tasks/task2.md)
+3. [请求将自己的分支合并到 dev 分支](tasks/task3.md)
